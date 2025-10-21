@@ -1,10 +1,9 @@
-            {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"true",
-    "servermeassage":"WAIT GUYS WE ARE WORKING ON A NEW UPDATED ANTIBAN BYPASS OKK ! @RISHABHX999",
-    "opentime":" WAIT FOR SOME TIME⚡",
-    "libs":" https://t.me/+cTSklccrnJEzODdl ",
-    "notice_title":"WELCOME TO @RISHABHx999 VIP MOD",
-    "notice_body":"@RISHABHx999"
+{
+  "showDialog": true,
+  "latestVersionCode": 5,
+  "latestVersionName": "1.5",
+  "title": "PANICO TEAM EXPIRED",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/+cTSklccrnJEzODdl"
 }
