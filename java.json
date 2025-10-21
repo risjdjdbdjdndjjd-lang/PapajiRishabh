@@ -1,7 +1,7 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 9,
-  "latestVersionName": "9.5",
+  "showDialog": false,
+  "latestVersionCode": 5,
+  "latestVersionName": "1.5",
   "title": "BYPASS HAS EXPIRED",
   "message": "Get the newest features and improvements.",
   "UpdateButtonText": "DOWNLOAD",
